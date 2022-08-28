@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.391daef7.css",
-    "main.js": "/static/js/main.efe759df.js",
+    "main.js": "/static/js/main.733516c2.js",
     "static/js/787.f6a8bb41.chunk.js": "/static/js/787.f6a8bb41.chunk.js",
     "static/media/yelp-6.png": "/static/media/yelp-6.bfdf6fd7aa8c2a63225a.png",
     "static/media/reactivities-1.png": "/static/media/reactivities-1.d9730023dbaed8fb93a0.png",
@@ -85,6 +85,7 @@
     "static/media/code.png": "/static/media/code.6d9d2f4e8469b761fbdc.png",
     "static/media/recipes-1.png": "/static/media/recipes-1.63eb1f024930330532a0.png",
     "static/media/character.png": "/static/media/character.f99ec23428692a5696d3.png",
+    "static/media/Nodemailer.png": "/static/media/Nodemailer.a667874676f9692b9939.png",
     "static/media/MobX.png": "/static/media/MobX.d60f3ccb4b2654017a93.png",
     "static/media/Nodemon.png": "/static/media/Nodemon.c8aff3630edab083e1e3.png",
     "static/media/Twig.png": "/static/media/Twig.632689e39e6e0281fd50.png",
@@ -110,11 +111,11 @@
     "static/media/Bull.png": "/static/media/Bull.ca518f58ecbb0361b237.png",
     "index.html": "/index.html",
     "main.391daef7.css.map": "/static/css/main.391daef7.css.map",
-    "main.efe759df.js.map": "/static/js/main.efe759df.js.map",
+    "main.733516c2.js.map": "/static/js/main.733516c2.js.map",
     "787.f6a8bb41.chunk.js.map": "/static/js/787.f6a8bb41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.391daef7.css",
-    "static/js/main.efe759df.js"
+    "static/js/main.733516c2.js"
   ]
 }
