@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.391daef7.css",
-    "main.js": "/static/js/main.733516c2.js",
+    "main.js": "/static/js/main.d558e817.js",
     "static/js/787.f6a8bb41.chunk.js": "/static/js/787.f6a8bb41.chunk.js",
     "static/media/yelp-6.png": "/static/media/yelp-6.bfdf6fd7aa8c2a63225a.png",
     "static/media/reactivities-1.png": "/static/media/reactivities-1.d9730023dbaed8fb93a0.png",
@@ -47,6 +47,8 @@
     "static/media/posts-2.png": "/static/media/posts-2.205cb08c2e34f2198b33.png",
     "static/media/recipes-3.png": "/static/media/recipes-3.224f44d2087151a10665.png",
     "static/media/tickets-4.png": "/static/media/tickets-4.7e6df0b2e86465997e7c.png",
+    "static/media/postgrados-7.png": "/static/media/postgrados-7.8804de3ce591f6da8aa1.png",
+    "static/media/postgrados-2.png": "/static/media/postgrados-2.a3a276ad5269458ad043.png",
     "static/media/colors-3.png": "/static/media/colors-3.da92c024ccfbfc103249.png",
     "static/media/colors-4.png": "/static/media/colors-4.b13d00e81cf509d53ca9.png",
     "static/media/auctions-3.png": "/static/media/auctions-3.747caf98396d5d9ce87b.png",
@@ -57,10 +59,14 @@
     "static/media/auctions-7.png": "/static/media/auctions-7.0af0bb72d518efe7bf2b.png",
     "static/media/auctions-1.png": "/static/media/auctions-1.9d0135f67ab465cf3224.png",
     "static/media/posts-3.png": "/static/media/posts-3.63cafc42cd620ee49a27.png",
+    "static/media/postgrados-4.png": "/static/media/postgrados-4.d8a6554e07a042da8715.png",
     "static/media/netshop-2.png": "/static/media/netshop-2.848e3ee7e9d3fd9fc5ea.png",
     "static/media/colors-1.png": "/static/media/colors-1.373e8fee4c74ce3e86e9.png",
     "static/media/netshop-5.png": "/static/media/netshop-5.b9b59f8cde9583e124f1.png",
     "static/media/auctions-8.png": "/static/media/auctions-8.90302bfac163c9b12beb.png",
+    "static/media/postgrados-5.png": "/static/media/postgrados-5.6c0167ae65bd218b7517.png",
+    "static/media/postgrados-8.png": "/static/media/postgrados-8.6920258c18ab9feec21f.png",
+    "static/media/postgrados-6.png": "/static/media/postgrados-6.0fc14f5a05ffd000c206.png",
     "static/media/mep-10.png": "/static/media/mep-10.c7575ca83f3c1c1c1736.png",
     "static/media/netshop-4.png": "/static/media/netshop-4.73cb00bd0793589c51aa.png",
     "static/media/netshop-3.png": "/static/media/netshop-3.dfea9e246aee6677cb8a.png",
@@ -68,8 +74,10 @@
     "static/media/yelp-5.png": "/static/media/yelp-5.7919ebb1b3f263d3d16e.png",
     "static/media/tickets-7.png": "/static/media/tickets-7.9e06bd2c74479e04ed55.png",
     "static/media/tickets-6.png": "/static/media/tickets-6.58102978715733389eec.png",
+    "static/media/postgrados-3.png": "/static/media/postgrados-3.ec0742a8b2b6b047ade5.png",
     "static/media/gRPC.png": "/static/media/gRPC.53d579373504f7c706d1.png",
     "static/media/NATS Streaming.png": "/static/media/NATS Streaming.750cf6c8607801e4921f.png",
+    "static/media/postgrados-9.png": "/static/media/postgrados-9.5ae791cc03ecb60d3fca.png",
     "static/media/tickets-5.png": "/static/media/tickets-5.2b58470acdd1d987ef6d.png",
     "static/media/auctions-9.png": "/static/media/auctions-9.7f6b8c44bb715bd4e3a0.png",
     "static/media/tickets-3.png": "/static/media/tickets-3.0d5ddf49b30f55df0a25.png",
@@ -81,6 +89,7 @@
     "static/media/recipes-5.png": "/static/media/recipes-5.c0eb8fcb74b5ca54423b.png",
     "static/media/Mongoose.png": "/static/media/Mongoose.0dfb83b0fe9ce14a2385.png",
     "static/media/colors-5.png": "/static/media/colors-5.3797466db04adc3d72d0.png",
+    "static/media/postgrados-1.png": "/static/media/postgrados-1.7e4e8147e44ca4db5f96.png",
     "static/media/tickets-2.png": "/static/media/tickets-2.907cbff6c9d151d28dcb.png",
     "static/media/code.png": "/static/media/code.6d9d2f4e8469b761fbdc.png",
     "static/media/recipes-1.png": "/static/media/recipes-1.63eb1f024930330532a0.png",
@@ -111,11 +120,11 @@
     "static/media/Bull.png": "/static/media/Bull.ca518f58ecbb0361b237.png",
     "index.html": "/index.html",
     "main.391daef7.css.map": "/static/css/main.391daef7.css.map",
-    "main.733516c2.js.map": "/static/js/main.733516c2.js.map",
+    "main.d558e817.js.map": "/static/js/main.d558e817.js.map",
     "787.f6a8bb41.chunk.js.map": "/static/js/787.f6a8bb41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.391daef7.css",
-    "static/js/main.733516c2.js"
+    "static/js/main.d558e817.js"
   ]
 }
