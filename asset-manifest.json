@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.dfc1ccb1.css",
-    "main.js": "/static/js/main.8772c42f.js",
+    "main.js": "/static/js/main.6dbfc564.js",
     "static/media/Introduction to Shell - DataCamp.webp": "/static/media/Introduction to Shell - DataCamp.a028120af9cc3ac6634e.webp",
     "static/media/Introduction to Git - DataCamp.webp": "/static/media/Introduction to Git - DataCamp.bc7e15ded1d61df14789.webp",
     "static/media/Scrum Fundamentals Certified.webp": "/static/media/Scrum Fundamentals Certified.eba1224288115646cbf5.webp",
     "static/media/Microservices with Node JS and React - Stephen Grider.webp": "/static/media/Microservices with Node JS and React - Stephen Grider.1c30a502e06b711d1d73.webp",
+    "static/media/Azure Fundamentals.webp": "/static/media/Azure Fundamentals.3c4f59a16268bd298516.webp",
     "static/media/Microservices Architecture and Implementation on .NET 5 - Mehmet Ozkaya.webp": "/static/media/Microservices Architecture and Implementation on .NET 5 - Mehmet Ozkaya.947e623878640c9eb07e.webp",
     "static/media/postgrados-2.webp": "/static/media/postgrados-2.cded0141bba822d10786.webp",
     "static/media/netshop-1.webp": "/static/media/netshop-1.8ffba65a85a8ca859194.webp",
@@ -146,10 +147,10 @@
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
     "static/media/facebook.webp": "/static/media/facebook.977b5a3a6fecdd8084d1.webp",
     "main.dfc1ccb1.css.map": "/static/css/main.dfc1ccb1.css.map",
-    "main.8772c42f.js.map": "/static/js/main.8772c42f.js.map"
+    "main.6dbfc564.js.map": "/static/js/main.6dbfc564.js.map"
   },
   "entrypoints": [
     "static/css/main.dfc1ccb1.css",
-    "static/js/main.8772c42f.js"
+    "static/js/main.6dbfc564.js"
   ]
 }
