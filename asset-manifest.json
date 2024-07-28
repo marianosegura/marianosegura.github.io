@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e16673bf.css",
+    "main.css": "/static/css/main.41f6fdb1.css",
     "main.js": "/static/js/main.bd665980.js",
     "static/media/Introduction to Shell - DataCamp.webp": "/static/media/Introduction to Shell - DataCamp.a028120af9cc3ac6634e.webp",
     "static/media/Introduction to Git - DataCamp.webp": "/static/media/Introduction to Git - DataCamp.bc7e15ded1d61df14789.webp",
@@ -65,11 +65,11 @@
     "static/media/linkedin.webp": "/static/media/linkedin.b21e87a8be1a13a1fff2.webp",
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
     "static/media/facebook.webp": "/static/media/facebook.977b5a3a6fecdd8084d1.webp",
-    "main.e16673bf.css.map": "/static/css/main.e16673bf.css.map",
+    "main.41f6fdb1.css.map": "/static/css/main.41f6fdb1.css.map",
     "main.bd665980.js.map": "/static/js/main.bd665980.js.map"
   },
   "entrypoints": [
-    "static/css/main.e16673bf.css",
+    "static/css/main.41f6fdb1.css",
     "static/js/main.bd665980.js"
   ]
 }
