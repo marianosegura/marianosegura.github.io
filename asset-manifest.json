@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.41f6fdb1.css",
-    "main.js": "/static/js/main.769d2074.js",
+    "main.js": "/static/js/main.2140dee1.js",
     "static/media/Introduction to Shell - DataCamp.webp": "/static/media/Introduction to Shell - DataCamp.a028120af9cc3ac6634e.webp",
     "static/media/Introduction to Git - DataCamp.webp": "/static/media/Introduction to Git - DataCamp.bc7e15ded1d61df14789.webp",
     "static/media/Scrum Fundamentals Certified.webp": "/static/media/Scrum Fundamentals Certified.eba1224288115646cbf5.webp",
@@ -66,10 +66,10 @@
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
     "static/media/facebook.webp": "/static/media/facebook.977b5a3a6fecdd8084d1.webp",
     "main.41f6fdb1.css.map": "/static/css/main.41f6fdb1.css.map",
-    "main.769d2074.js.map": "/static/js/main.769d2074.js.map"
+    "main.2140dee1.js.map": "/static/js/main.2140dee1.js.map"
   },
   "entrypoints": [
     "static/css/main.41f6fdb1.css",
-    "static/js/main.769d2074.js"
+    "static/js/main.2140dee1.js"
   ]
 }
