@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c60ce14.css",
-    "main.js": "/static/js/main.548c91d1.js",
+    "main.js": "/static/js/main.916534b7.js",
     "static/media/Scrum Fundamentals Certified.webp": "/static/media/Scrum Fundamentals Certified.eba1224288115646cbf5.webp",
     "static/media/Microservices with Node JS and React - Stephen Grider.webp": "/static/media/Microservices with Node JS and React - Stephen Grider.1c30a502e06b711d1d73.webp",
     "static/media/Azure Fundamentals.webp": "/static/media/Azure Fundamentals.3c4f59a16268bd298516.webp",
@@ -52,10 +52,10 @@
     "static/media/linkedin.webp": "/static/media/linkedin.b21e87a8be1a13a1fff2.webp",
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
     "main.5c60ce14.css.map": "/static/css/main.5c60ce14.css.map",
-    "main.548c91d1.js.map": "/static/js/main.548c91d1.js.map"
+    "main.916534b7.js.map": "/static/js/main.916534b7.js.map"
   },
   "entrypoints": [
     "static/css/main.5c60ce14.css",
-    "static/js/main.548c91d1.js"
+    "static/js/main.916534b7.js"
   ]
 }
