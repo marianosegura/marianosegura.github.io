@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d92a07d.css",
-    "main.js": "/static/js/main.916534b7.js",
+    "main.css": "/static/css/main.bec5a39b.css",
+    "main.js": "/static/js/main.b27e3ce6.js",
     "static/media/Scrum Fundamentals Certified.webp": "/static/media/Scrum Fundamentals Certified.eba1224288115646cbf5.webp",
     "static/media/Microservices with Node JS and React - Stephen Grider.webp": "/static/media/Microservices with Node JS and React - Stephen Grider.1c30a502e06b711d1d73.webp",
     "static/media/Azure Fundamentals.webp": "/static/media/Azure Fundamentals.3c4f59a16268bd298516.webp",
@@ -40,6 +40,7 @@
     "static/media/Angular Material.webp": "/static/media/Angular Material.eba1b01553e17e4bd5bb.webp",
     "static/media/MongoDB Atlas.webp": "/static/media/MongoDB Atlas.ce9d2b7b17d1db73de4e.webp",
     "static/media/IntelliJ IDEA.webp": "/static/media/IntelliJ IDEA.f0e034420fd4a2bc0ca6.webp",
+    "static/media/gft.webp": "/static/media/gft.e6e9b3e6de27b246bf06.webp",
     "static/media/SQLite.webp": "/static/media/SQLite.435e76585d655ef26888.webp",
     "static/media/Vue.webp": "/static/media/Vue.e9a425be950b82536081.webp",
     "static/media/Spring Data JPA.webp": "/static/media/Spring Data JPA.c235522c4d141972ad2c.webp",
@@ -51,11 +52,11 @@
     "static/media/globe.webp": "/static/media/globe.066ab4a435cf22df5035.webp",
     "static/media/linkedin.webp": "/static/media/linkedin.b21e87a8be1a13a1fff2.webp",
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
-    "main.1d92a07d.css.map": "/static/css/main.1d92a07d.css.map",
-    "main.916534b7.js.map": "/static/js/main.916534b7.js.map"
+    "main.bec5a39b.css.map": "/static/css/main.bec5a39b.css.map",
+    "main.b27e3ce6.js.map": "/static/js/main.b27e3ce6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d92a07d.css",
-    "static/js/main.916534b7.js"
+    "static/css/main.bec5a39b.css",
+    "static/js/main.b27e3ce6.js"
   ]
 }
