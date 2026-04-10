@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.bec5a39b.css",
-    "main.js": "/static/js/main.b27e3ce6.js",
+    "main.js": "/static/js/main.116e7012.js",
     "static/media/Scrum Fundamentals Certified.webp": "/static/media/Scrum Fundamentals Certified.eba1224288115646cbf5.webp",
+    "static/media/Claude.webp": "/static/media/Claude.865008e50fa768840914.webp",
     "static/media/Microservices with Node JS and React - Stephen Grider.webp": "/static/media/Microservices with Node JS and React - Stephen Grider.1c30a502e06b711d1d73.webp",
     "static/media/Azure Fundamentals.webp": "/static/media/Azure Fundamentals.3c4f59a16268bd298516.webp",
     "static/media/Oracle Certified Professional Java SE 17 Developer.webp": "/static/media/Oracle Certified Professional Java SE 17 Developer.e63a751e6a4696ea14f7.webp",
@@ -21,6 +22,7 @@
     "static/media/boxes.webp": "/static/media/boxes.97d558ff4af963fc0b1c.webp",
     "static/media/SQL Server.webp": "/static/media/SQL Server.71b73e86605f32451b26.webp",
     "static/media/Docker Compose.webp": "/static/media/Docker Compose.7310b91a1c830d39b436.webp",
+    "static/media/ChatGPT.webp": "/static/media/ChatGPT.8ee5cf9d4b3f5c0886d4.webp",
     "static/media/bubble.webp": "/static/media/bubble.29bd1ef11ecada1c3a7f.webp",
     "static/media/spot.webp": "/static/media/spot.4a54a0b2576e216418e6.webp",
     "static/media/numbers.webp": "/static/media/numbers.da4ec66fa1071d108810.webp",
@@ -28,12 +30,14 @@
     "static/media/laptop.webp": "/static/media/laptop.63a7e178eb9d9002ab86.webp",
     "static/media/Mongoose.webp": "/static/media/Mongoose.31e684baf5d1953cf8ac.webp",
     "static/media/floor.webp": "/static/media/floor.b6065425115623d190ed.webp",
+    "static/media/Gemini.webp": "/static/media/Gemini.556ea0a009569dfeec28.webp",
     "static/media/Lombok.webp": "/static/media/Lombok.9a6a97512350f50b26a6.webp",
     "static/media/Swagger.webp": "/static/media/Swagger.becf5f8c2ecd6ef6fc0d.webp",
     "static/media/background.webp": "/static/media/background.13dd5c8a6832b68e5aad.webp",
     "static/media/Twig.webp": "/static/media/Twig.497249ddd24d95484424.webp",
     "static/media/Postman.webp": "/static/media/Postman.d22f86ee3d219e587609.webp",
     "static/media/EJS.webp": "/static/media/EJS.7c35d9897de37aacc8bd.webp",
+    "static/media/Github Copilot.webp": "/static/media/Github Copilot.683095d383cc449d8ea6.webp",
     "static/media/NgRx.webp": "/static/media/NgRx.24180941c9f342341147.webp",
     "static/media/JUnit.webp": "/static/media/JUnit.27784f899af38af3e4f7.webp",
     "static/media/Diagrams.net.webp": "/static/media/Diagrams.net.b1ce1ba1c76273de88bf.webp",
@@ -53,10 +57,10 @@
     "static/media/linkedin.webp": "/static/media/linkedin.b21e87a8be1a13a1fff2.webp",
     "static/media/kg.webp": "/static/media/kg.2ba5242fd1f75c6a6678.webp",
     "main.bec5a39b.css.map": "/static/css/main.bec5a39b.css.map",
-    "main.b27e3ce6.js.map": "/static/js/main.b27e3ce6.js.map"
+    "main.116e7012.js.map": "/static/js/main.116e7012.js.map"
   },
   "entrypoints": [
     "static/css/main.bec5a39b.css",
-    "static/js/main.b27e3ce6.js"
+    "static/js/main.116e7012.js"
   ]
 }
